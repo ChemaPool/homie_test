@@ -1,2 +1,1 @@
-
-akakadaof
+http://es.tldp.org/Manuales-LuCAS/doc-guia-usuario-ruby/guia-usuario-ruby.pdf
